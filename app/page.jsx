@@ -4,11 +4,11 @@ const Home = () => {
 	return (
 		<section className="w-full flex-center flex-col">
 			<h1 className="head_text text-center">
-				Discover & Share 
+				Discover & Share
 				<br className="max-md:hidden" />
 				<span className="orange_gradient text-center"> AI-Powered Prompts</span>
 			</h1>
-			<p className="desc text-center">
+			<p className="desc text-center animate-fade-left animate-ease-in animate-duration-[2000ms]">
 				PromptPro is an open source AI prompting tool for modern world to
 				discover, create and share creative prompts
 			</p>
