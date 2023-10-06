@@ -3,8 +3,8 @@ import Nav from "@components/Nav";
 import Provider from "@components/Provider";
 
 export const metadata = {
-	title: "PromptPro",
-	description: "Discover and share AI Prompts",
+	title: "PromptCollab",
+	description: "Explore & Collaborate AI Prompts",
 };
 
 const Rootlayout = ({ children }) => {
