@@ -50,12 +50,12 @@
 			hsla(215, 98%, 61%, 1) 0px,
 			transparent 0%
 		),
-		radial-gradient(at 97% 21%, rgb(114, 254, 125) 0px, transparent 50%),
-		radial-gradient(at 52% 99%, hsla(354, 98%, 61%, 1) 0px, transparent 50%),
-		radial-gradient(at 10% 29%, rgb(80, 26, 228) 0px, transparent 50%),
-		radial-gradient(at 97% 96%, rgb(220, 163, 64) 0px, transparent 50%),
-		radial-gradient(at 33% 50%, rgb(43, 95, 215) 0px, transparent 50%),
-		radial-gradient(at 79% 53%, rgb(220, 45, 95) 0px, transparent 50%);
+		radial-gradient(at 97% 21%,  rgb(31, 0, 92) 0px, transparent 50%),
+		radial-gradient(at 52% 99%,  rgb(70, 0, 122) 0px, transparent 50%),
+		radial-gradient(at 10% 29%,   rgb(255, 51, 47) 0px, transparent 50%),
+		radial-gradient(at 97% 96%, rgb(255, 17, 70) 0px, transparent 50%),
+		radial-gradient(at 33% 50%,  rgb(212, 0, 149) 0px, transparent 50%),
+		radial-gradient(at 79% 53%, rgb(182, 0, 171) 0px, transparent 50%);
 	position: absolute;
 	content: "";
 	width: 100%;
@@ -64,6 +64,7 @@
 	top: 80px;
 	opacity: 0.15;
 }
+
 
 @media screen and (max-width: 640px) {
 	.main {
